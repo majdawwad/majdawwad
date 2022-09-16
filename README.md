@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @majdawwad , software engineer .
-- 👀 I’m interested in technologyes, I work mobile developer by flutter and I work Django farmework .
+- 👀 I’m interested in technologies, I work mobile developer by flutter and I work Django framework .
 - 🌱 I’m currently learning about that and I like technology and I want to complete in web development more and more .
 - 💞️ I’m looking to collaborate on Github to share projects and learning more to get on more experiance .
 - 📫 How to reach me ... email: majdwawwad@gmail.com
